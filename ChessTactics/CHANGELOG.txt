@@ -1,2 +1,0 @@
-ChessTactics v1.0.0 - primera versión.
-Para actualizar: haz copia (Ajustes > Exportar), y en Netlify > Deploys arrastra la carpeta/zip nueva. NO crees un sitio nuevo.
